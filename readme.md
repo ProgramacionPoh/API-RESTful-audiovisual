@@ -34,7 +34,7 @@
     ├── package.json
     ├── package-lock.json 
     ├── README.md
-    └── vistas de las tablas con sus relaciones.pdf
+    └── DER API.pdf
 ```
 
 ---
